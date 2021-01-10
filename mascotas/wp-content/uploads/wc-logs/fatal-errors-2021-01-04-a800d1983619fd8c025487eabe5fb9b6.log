@@ -1,0 +1,4 @@
+2021-01-04T03:54:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\mascotas\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\ImportInterface.php en la línea 27
+
+2021-01-04T17:54:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\mascotas\wp-includes\Requests\Transport\cURL.php en la línea 163
+
